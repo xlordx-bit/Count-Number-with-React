@@ -1,3 +1,20 @@
+This is a simple React counter application built with Vite. Here's an overview of the key components:
+
+Main Components:
+
+App.jsx - The root component that renders the counter
+Mycomponent.jsx - Contains the counter logic with increment, decrement, and reset functionality
+Features:
+
+Counter display with large numbers
+Three buttons for increasing, decreasing, and resetting the counter
+Clean UI with green buttons and centered layout
+Technology Stack:
+
+React 19
+Vite as the build tool
+CSS for styling
+ESLint for code quality
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
